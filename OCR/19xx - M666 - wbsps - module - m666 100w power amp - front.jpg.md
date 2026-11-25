@@ -59,7 +59,7 @@ The modest Siz 0f SW x SHx13/Dinches allows two M666 monitor am lifiers Io he ac
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M666/PHOTOS/19xx - M666 - wbsps - module - m666 100w power amp - front.jpg",
+ "file": "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - wbsps - module - m666 100w power amp - front.jpg",
  "sha256": "bd39272addbc625b6673ce7c338add6a7a446e64034c31feaceff87ba478b476",
  "kind": "module",
  "models": [

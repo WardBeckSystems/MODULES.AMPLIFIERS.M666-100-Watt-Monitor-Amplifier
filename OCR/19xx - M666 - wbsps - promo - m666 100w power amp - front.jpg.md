@@ -55,7 +55,7 @@ Hes M666
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M666/PHOTOS/19xx - M666 - wbsps - promo - m666 100w power amp - front.jpg",
+ "file": "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - wbsps - promo - m666 100w power amp - front.jpg",
  "sha256": "ef4010abfd76e7d12055d125b8e32333293104943d0f9349137aef924772ea2c",
  "kind": "module",
  "models": [

@@ -55,7 +55,7 @@ JJ+
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M666/PHOTOS/19xx - M666 - wbsps - module - m666 100w power amp - back.jpg",
+ "file": "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - wbsps - module - m666 100w power amp - back.jpg",
  "sha256": "b77a52774cbbf121cac4abff438ac49398a23b2467bfd967d1752572e419fa38",
  "kind": "module",
  "models": [
