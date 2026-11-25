@@ -1,5 +1,5 @@
 # 19xx - M666 - DOC - wbsps - ad - 600 series.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -58,7 +58,7 @@ WARD-BECK SYSTEMS LTD: WBS PoDD Ellesmere AOAD, ScaRODADUGH, ONtaAIO 010/281-210
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M666/19xx - M666 - DOC - wbsps - ad - 600 series.jpg",
+ "file": "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - DOC - wbsps - ad - 600 series.jpg",
  "sha256": "906b962a34266ab6072102644e089a72da1aeaa01e471cd9a9b14bda44ff93a5",
  "kind": "doc",
  "models": [

@@ -1,5 +1,5 @@
 # 19xx - M666 - DOC - US Sales Brochure pg 8.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -74,7 +74,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M666/19xx - M666 - DOC - US Sales Brochure pg 8.jpg",
+ "file": "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - DOC - US Sales Brochure pg 8.jpg",
  "sha256": "c46d1ad6aacd1c90e0a8010775d8785a79fee891bb21f993d5703106e5d7201b",
  "kind": "doc",
  "models": [

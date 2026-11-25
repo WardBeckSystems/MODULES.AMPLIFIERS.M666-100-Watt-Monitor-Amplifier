@@ -1,5 +1,5 @@
 # 19xx - M666 - file.jpg
-Wiki page: [M666](../../../PAGES/M666.md)
+Wiki page: [M666](../../../../PAGES/M666.md)
 
 
 - **Year:** unknown (unknown)
@@ -25,7 +25,7 @@ WBS M666
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M666/19xx - M666 - file.jpg",
+ "file": "Modules/AMPLIFIERS/M666/PHOTOS/19xx - M666 - file.jpg",
  "sha256": "eab5353832c564a6541b2583a96d954104cd8147bbf35d4041c2c23873ddc733",
  "kind": "module",
  "models": [

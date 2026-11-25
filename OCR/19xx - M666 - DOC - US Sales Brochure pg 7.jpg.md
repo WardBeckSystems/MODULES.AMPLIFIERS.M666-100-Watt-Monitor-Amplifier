@@ -1,5 +1,5 @@
 # 19xx - M666 - DOC - US Sales Brochure pg 7.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -38,7 +38,7 @@ Active elements contained on plug in subsidiary PC card
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M666/19xx - M666 - DOC - US Sales Brochure pg 7.jpg",
+ "file": "Modules/AMPLIFIERS/M666/MANUALS/19xx - M666 - DOC - US Sales Brochure pg 7.jpg",
  "sha256": "e92f746cad06067c90472f7be87e088c56d2f6d3514188a750b8ce9ea8d0fb56",
  "kind": "doc",
  "models": [

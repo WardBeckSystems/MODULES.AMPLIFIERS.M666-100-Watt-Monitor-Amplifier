@@ -1,5 +1,5 @@
 # 19xx - M666 - wbsps - module - m666 - amplifier.jpg
-Wiki page: [M666](../../../PAGES/M666.md)
+Wiki page: [M666](../../../../PAGES/M666.md)
 
 
 - **Year:** unknown (unknown)
@@ -23,7 +23,7 @@ W0s H6ug
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M666/19xx - M666 - wbsps - module - m666 - amplifier.jpg",
+ "file": "Modules/AMPLIFIERS/M666/PHOTOS/19xx - M666 - wbsps - module - m666 - amplifier.jpg",
  "sha256": "c06fa485868c608d684f9958b58f8a2dda64d90ed23a694da7b10a745c4ae945",
  "kind": "module",
  "models": [

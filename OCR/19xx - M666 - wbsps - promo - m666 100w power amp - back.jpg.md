@@ -1,5 +1,5 @@
 # 19xx - M666 - wbsps - promo - m666 100w power amp - back.jpg
-Wiki page: [M666](../../../PAGES/M666.md)
+Wiki page: [M666](../../../../PAGES/M666.md)
 
 
 - **Year:** unknown (unknown)
@@ -73,7 +73,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M666/19xx - M666 - wbsps - promo - m666 100w power amp - back.jpg",
+ "file": "Modules/AMPLIFIERS/M666/PHOTOS/19xx - M666 - wbsps - promo - m666 100w power amp - back.jpg",
  "sha256": "4597d4961856a6ba8863c653f91b184bd6e3c5569542e3164edcd6e5e27209dd",
  "kind": "module",
  "models": [
