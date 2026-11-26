@@ -35,7 +35,7 @@ Wiki page: [M666](../../../../PAGES/M666.md)
 - **Title block:** (359, 80)–(432, 93) mm: WARD-BECK SYSTEMS · WBS · 4666
 - **Wiring (first pass):** 46 connected wire groups from 435 runs; labelled ends: 154 mm → WARD-BECK SYSTEMS; 147 mm → 8:3; 102 mm → NOT; 54 mm → SHAL; 31 mm → 8:3
 
-Every curve, box, word and wire group: [1977 - 666-02-002 - 100W MONITOR AMPLIFIER SYSTEM WIRING - DRN MRW - ISS 4 (traced).json](../SCHEMATICS/1977%20-%20666-02-002%20-%20100W%20MONITOR%20AMPLIFIER%20SYSTEM%20WIRING%20-%20DRN%20MRW%20-%20ISS%204%20(traced).json) (the CAD file: `1977 - 666-02-002 - 100W MONITOR AMPLIFIER SYSTEM WIRING - DRN MRW - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 666-02-002 - 100W MONITOR AMPLIFIER SYSTEM WIRING - DRN MRW - ISS 4 (traced).json](../SCHEMATICS/1977%20-%20666-02-002%20-%20100W%20MONITOR%20AMPLIFIER%20SYSTEM%20WIRING%20-%20DRN%20MRW%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1977 - 666-02-002 - 100W MONITOR AMPLIFIER SYSTEM WIRING - DRN MRW - ISS 4 (traced).dxf`).
 
 ## Full text
 

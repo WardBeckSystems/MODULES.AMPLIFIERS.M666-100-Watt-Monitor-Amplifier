@@ -24,7 +24,7 @@ Wiki page: [M666](../../../../PAGES/M666.md)
 - **Title block:** (358, 45)–(432, 55) mm: WBS WARD-BECk SYSTEMS
 - **Wiring (first pass):** 52 connected wire groups from 488 runs; labelled ends: 584 mm → WBS; 515 mm → 33; 159 mm → Rros, Disoor, Decoa; 156 mm → WBS; 125 mm → 25 TURNS
 
-Every curve, box, word and wire group: [19xx - M666 - LB 666-02-001 - M666 - 100W MONITOR AMPLIFIER - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M666%20-%20LB%20666-02-001%20-%20M666%20-%20100W%20MONITOR%20AMPLIFIER%20-%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M666 - LB 666-02-001 - M666 - 100W MONITOR AMPLIFIER - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M666 - LB 666-02-001 - M666 - 100W MONITOR AMPLIFIER - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M666%20-%20LB%20666-02-001%20-%20M666%20-%20100W%20MONITOR%20AMPLIFIER%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M666 - LB 666-02-001 - M666 - 100W MONITOR AMPLIFIER - SCHEMATIC (traced).dxf`).
 
 ## Full text
 
