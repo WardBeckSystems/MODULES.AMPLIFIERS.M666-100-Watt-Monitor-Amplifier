@@ -13,6 +13,28 @@ Ward-Beck Systems M666, 1975|8. Wiki page: [M666 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 20 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [4 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M666 - wbsps - promo - m666 100w power amp - back.jpg](MANUALS/19xx%20-%20M666%20-%20wbsps%20-%20promo%20-%20m666%20100w%20power%20amp%20-%20back.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 50dB matched gain Front panel variable control |
+| **Input impedance** | 1OK ohms balanced to ground OUTPUT IMPEDANCE Less than 0.1 ohm |
+| **Frequency response** | ±0.25dB from 2OHz to 20kHz NOISE 90dB below 1OOW at maximum gain (reduces with front panel control) TOTAL HARMONIC DISTORTION Less than 0.25% from 20Hz to 20kHz at any power level up to 1OOW INPUT LEVEL OdBm nominal, 20dBm maximum for 1OOW output level SOURCE IMPEDANCE 600 ohms or less balanced or unbalanced |
+| **Phasing** | The low terminal number of the input pair is in phase with the direct output terminal: |
+| **Power requirements** | 115V ac, 6OHz, 2OQVA |
+| **Ambient temperature** | to 600C |
+| **Dimensions** | 8.5W x SH 13.70 inches |
+| **Weight** | Ibs_ net |
+| **Accessories** | MFGA 600 Series Mounting Frame 19W x 5.25H x 14.5D (less rear cable tray and cover) Standard EIA rack mounting: Accommodates two M666 modules or any combination of single, double or quadruple units not exceeding ten single width modules. MFR6 600 Series Frame Receptacle Two required per M666. |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

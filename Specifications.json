@@ -1,0 +1,126 @@
+{
+ "module": "M666",
+ "title": "",
+ "source": {
+  "file": "MANUALS/19xx - M666 - wbsps - promo - m666 100w power amp - back.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.91,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "50dB matched gain Front panel variable control",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "1OK ohms balanced to ground OUTPUT IMPEDANCE Less than 0.1 ohm",
+   "quantities": [
+    {
+     "value": 0.1,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.25dB from 2OHz to 20kHz NOISE 90dB below 1OOW at maximum gain (reduces with front panel control) TOTAL HARMONIC DISTORTION Less than 0.25% from 20Hz to 20kHz at any power level up to 1OOW INPUT LEVEL OdBm nominal, 20dBm maximum for 1OOW output level SOURCE IMPEDANCE 600 ohms or less balanced or unbalanced",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 90,
+     "unit": "dB"
+    },
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "The low terminal number of the input pair is in phase with the direct output terminal:"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "115V ac, 6OHz, 2OQVA",
+   "quantities": [
+    {
+     "value": 115,
+     "unit": "V ac"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 600C"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "8.5W x SH 13.70 inches",
+   "quantities": [
+    {
+     "value": 8.5,
+     "unit": "W"
+    },
+    {
+     "value": 13.7,
+     "unit": "inches"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "Ibs_ net"
+  },
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "MFGA 600 Series Mounting Frame 19W x 5.25H x 14.5D (less rear cable tray and cover) Standard EIA rack mounting: Accommodates two M666 modules or any combination of single, double or quadruple units not exceeding ten single width modules. MFR6 600 Series Frame Receptacle Two required per M666.",
+   "quantities": [
+    {
+     "value": 19,
+     "unit": "W"
+    }
+   ]
+  }
+ ]
+}
