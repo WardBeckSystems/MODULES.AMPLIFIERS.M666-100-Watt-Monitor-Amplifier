@@ -1,14 +1,14 @@
-# M666 · Amplifiers
+# M666 100 Watt Monitor Amplifier · Amplifiers
 
 Ward-Beck Systems M666, 1975|8. Wiki page: [M666 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M666.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 11 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 9 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 10 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 20 |
@@ -44,7 +44,7 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYVZ4YjFpSFRvc1k/view?resourcekey=0-tM8xgVVYetSX40DCU6PznA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYVZ4YjFpSFRvc1k&resourcekey=0-tM8xgVVYetSX40DCU6PznA" width="240" alt="19xx - M666 - wbsps - promo - m666 100w power amp - 003.jpg"></a><br><sub>19xx - M666 - wbsps - promo - m666 100w power amp - 003</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWWJWX0daa2V4dUk/view?resourcekey=0-Z79F1wgd-GX9fI77D5xRjg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWWJWX0daa2V4dUk&resourcekey=0-Z79F1wgd-GX9fI77D5xRjg" width="240" alt="19xx - M666 - wbsps - promo - m666 100w power amp - 004.jpg"></a><br><sub>19xx - M666 - wbsps - promo - m666 100w power amp - 004</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [19xx - M666 - wbsps - module - m666 - amplifier_small](https://drive.google.com/file/d/0B0yR0b5T78SKSzg3eFdBclVLeW8/view?resourcekey=0-4gMXHL5TFkMeflCksc4cYw) · [19xx - M666 - wbsps - module - m666 100w power amp - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKVnhLQURRYnRSYlk/view?resourcekey=0-2lNGLcVXmPGDvDHUhqCt3w) · [19xx - M666 - wbsps - promo - m666 100w power amp - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKU0s2aUhVS3NNZWM/view?resourcekey=0-Iif5wQ_1UUYZA1Fclqorkg)
+Shared privately on Google Drive (opens after sign-in): [19xx - M666 - wbsps - module - m666 100w power amp - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKVnhLQURRYnRSYlk/view?resourcekey=0-2lNGLcVXmPGDvDHUhqCt3w) · [19xx - M666 - wbsps - promo - m666 100w power amp - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKU0s2aUhVS3NNZWM/view?resourcekey=0-Iif5wQ_1UUYZA1Fclqorkg)
 
 ## Schematics
 
