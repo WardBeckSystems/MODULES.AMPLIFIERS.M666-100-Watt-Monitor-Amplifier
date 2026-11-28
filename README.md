@@ -1,6 +1,6 @@
 # M666 100 Watt Monitor Amplifier · Amplifiers
 
-Ward-Beck Systems M666, 1975|8. Wiki page: [M666 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M666.html)
+Ward-Beck Systems M666, 1975|8. Wiki page: [M666 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M666-100-Watt-Monitor-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

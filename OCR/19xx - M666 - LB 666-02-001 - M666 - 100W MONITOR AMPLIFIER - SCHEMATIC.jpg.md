@@ -1,5 +1,5 @@
 # 19xx - M666 - LB 666-02-001 - M666 - 100W MONITOR AMPLIFIER - SCHEMATIC.jpg
-Wiki page: [M666](../../../../PAGES/M666.md)
+Wiki page: [M666](../)
 
 
 - **Year:** unknown (unknown)

@@ -1,5 +1,5 @@
 # 1977 - 666-02-002 - 100W MONITOR AMPLIFIER SYSTEM WIRING - DRN MRW - ISS 4.jpg
-Wiki page: [M666](../../../../PAGES/M666.md)
+Wiki page: [M666](../)
 
 
 - **Year:** 1977 (title block date)

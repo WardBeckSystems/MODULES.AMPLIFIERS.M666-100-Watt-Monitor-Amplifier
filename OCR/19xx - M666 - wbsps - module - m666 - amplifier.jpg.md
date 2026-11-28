@@ -1,5 +1,5 @@
 # 19xx - M666 - wbsps - module - m666 - amplifier.jpg
-Wiki page: [M666](../../../../PAGES/M666.md)
+Wiki page: [M666](../)
 
 
 - **Year:** unknown (unknown)
