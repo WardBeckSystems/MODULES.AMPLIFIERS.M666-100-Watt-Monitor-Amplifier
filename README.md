@@ -4,13 +4,12 @@ Ward-Beck Systems M666, 1975|8. Wiki page: [M666 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 11 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 10 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 10 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 9 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 20 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -73,7 +72,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1977 - 666-02-002 - 100W MONITOR AMPLIFIER SYSTEM WIRING - DRN MRW - ISS 4.kicad_sch](KICAD/1977%20-%20666-02-002%20-%20100W%20MONITOR%20AMPLIFIER%20SYSTEM%20WIRING%20-%20DRN%20MRW%20-%20ISS%204.kicad_sch)
 - [19xx - M666 - LB 666-02-001 - M666 - 100W MONITOR AMPLIFIER - SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M666%20-%20LB%20666-02-001%20-%20M666%20-%20100W%20MONITOR%20AMPLIFIER%20-%20SCHEMATIC.kicad_sch)
 - [M666.kicad_sym](KICAD/M666.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
